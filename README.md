@@ -1,4 +1,4 @@
-# ClassIsland.AutoPacker · 一键打包
+# AutoPacker · 一键打包
 
 把整个 **ClassIsland** 程序目录（含 `data` 里的配置与插件）一键打包成 zip，
 输出到指定文件夹。用来做备份，或者把配好的环境整个搬到另一台机器 / 教室大屏上。
